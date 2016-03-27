@@ -18,6 +18,10 @@ Learning CoreGraphics in Swift. It has some playground that demonstrates how to 
 
 ![](art/transform.png)
 
+## Image Manipulation
+
+![](art/image-manipulation.png)
+
 
 ## MIT License
 
